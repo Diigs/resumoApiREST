@@ -9,22 +9,22 @@ O termo "RESTful" refere-se a implementações que aderem estritamente aos princ
 
 ## HTTP verbs
 
-Os verbos HTTP, também chamados de métodos, indicam a ação que deve ser executada em um recurso identificado. Alguns principais verbos HTTP incluem: 
-GET: Obtém dados de um recurso. 
-POST: Cria um novo recurso. PUT: Atualiza um recurso existente. 
-DELETE: Remove um recurso. 
-PATCH: Atualiza parcialmente um recurso. 
-HTTP Status Code
+*Os verbos HTTP, também chamados de métodos, indicam a ação que deve ser *executada em um recurso identificado. Alguns principais verbos HTTP incluem: 
+*GET: Obtém dados de um recurso. 
+*POST: Cria um novo recurso. PUT: Atualiza um recurso existente. 
+*DELETE: Remove um recurso. 
+*PATCH: Atualiza parcialmente um recurso. 
+*HTTP Status Code
 
 ## HTTP Status Code
 
 Os códigos de status HTTP fornecem informações sobre o resultado da tentativa de solicitação ao servidor. Alguns códigos comuns incluem: 
 
-200 OK: Solicitação bem-sucedida. 
-201 Created: Recurso criado com sucesso. 
-204 No Content: Solicitação bem-sucedida, mas sem conteúdo para retornar. 400 Bad Request: Solicitação inválida do cliente. 
-401 Unauthorized: Falha na autenticação. 
-404 Not Found: Recurso não encontrado. 
-500 Internal Server Error: Erro interno do servidor.
+*200 OK: Solicitação bem-sucedida. 
+*201 Created: Recurso criado com sucesso. 
+*204 No Content: Solicitação bem-sucedida, mas sem conteúdo para retornar. *400 Bad Request: Solicitação inválida do cliente. 
+*401 Unauthorized: Falha na autenticação. 
+*404 Not Found: Recurso não encontrado. 
+*500 Internal Server Error: Erro interno do servidor.
 
-Autor do resumo: Lucas Souza Pereira - Matrícula 01224070
+## Autor do resumo: Lucas Souza Pereira - Matrícula 01224070
